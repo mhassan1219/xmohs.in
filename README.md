@@ -1,0 +1,2 @@
+# xmohs.in
+my homepage
