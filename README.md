@@ -1,2 +1,3 @@
-# xmohs.in
-my homepage
+---
+permalink: /index.html
+---
