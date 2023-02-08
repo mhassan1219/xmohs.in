@@ -2,7 +2,7 @@
 
 body {
     background: #494f5c;
-    color: #fff;
+    color: #ffe4c4;
     font-family:"Overpass Mono",monospace;
     font-size: 20px;
 
@@ -30,7 +30,7 @@ body {
 }
 
 .btn-outline-secondary {
-    color: #fff;
+    color: #ffe4c4;
 }
 
 .profile {
@@ -40,11 +40,11 @@ body {
 }
 
 a {
-    color: #fff;
+    color: #ffe4c4;
     text-decoration: none;
 }
 
 a:hover {
-    color: #fff;
+    color: #ffe4c4;
     text-decoration: underline;
 }
